@@ -1,0 +1,33 @@
+{
+  "name": "Overlock SC",
+  "designer": "Dario Manuel Muhafara",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Display",
+  "size": 18592,
+  "fonts": [
+    {
+      "name": "Overlock SC",
+      "style": "normal",
+      "weight": 400,
+      "filename": "OverlockSC-Regular.ttf",
+      "postScriptName": "OverlockSC-Regular",
+      "fullName": "OverlockSC-Regular",
+      "copyright": "Copyright (c) 2011, Dario Manuel Muhafara (http://www.tipo.net.ar), with Reserved Font Name \"Overlock\"."
+    },
+    {
+      "name": "Overlock SC",
+      "style": "normal",
+      "weight": 400,
+      "filename": "OverlockSC-Regular-TTF.ttf",
+      "postScriptName": "OverlockSC-Regular",
+      "fullName": "Overlock SC",
+      "copyright": "Copyright (c) 2011, Dario Manuel Muhafara (http://www.tipo.net.ar), with Reserved Font Name \"Overlock\"."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2011-12-19"
+}
